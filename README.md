@@ -61,8 +61,8 @@ ollama pull mistral
 ### 2️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/sentiment-analyzer-mistral.git
-cd sentiment-analyzer-mistral
+git clone https://github.com/Kanishka96ac/AI-Powered-Sentiment-Analyzer.git
+cd AI-Powered-Sentiment-Analyzer
 ```
 
 ### 3️⃣ Create & activate virtual environment
